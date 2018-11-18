@@ -1,8 +1,7 @@
 # Home
 
 Welcome to Dorami's official server!  
-We hope you will have a great time here to be familiar in this we recommend you to read this "page" of informations about the server 😊  
-This server's atmosphere isn't supposed to be heavy and strict. I hope to be able to update this server through your suggestions, to make a globally united and friendly server. 
+We hope you will have a great time here to be familiar in this we recommend you to read this "page" of informations about the server 😊
 
 * Dorami and staff members -
 
