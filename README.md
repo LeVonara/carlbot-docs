@@ -10,7 +10,7 @@ We hope you will have a great time here to be familiar in this we recommend you 
 Owner : Dorami  
 Admins : AppleCandy \(Emergency use\), Ren and LeVonara  
 Moderators : Athed, Eloy and Razorhell  
-Helpers : Shurineko, Roimousti, Jghost and Reunomi 
+Helpers : Shurineko, Roimousti, Jghost, Fhewi and Reunomi 
 
 ### Other staff 
 
