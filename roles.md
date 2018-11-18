@@ -1,12 +1,10 @@
 ---
-description: List of roles you should know
+description: L
 ---
 
 # Roles
 
-## Most important ones
-
-#### Staff members 
+### Staff members 
 
 **@DORAMI** Is the role of the owner, especially to prove to you he is the real one with his color
 
@@ -16,8 +14,32 @@ Tagging the role or him is an instant warn depending the act, Friends or Elite p
 
 **@D.Admins** : All permissions apart from erasing the server  
 **@D.Moderator** : They can kick, ban and manage the server   
-**@D.helper** : Beta version of Moderators, They can warn and mute and helps other staff members   
-  
+**@D.helper** : Beta version of Moderators, They can warn and mute and helps other staff members 
+
+### Level roles
+
+MEE6 : [https://mee6.xyz/leaderboard/412536528561242113](https://mee6.xyz/leaderboard/412536528561242113) Check this link to see all the available roles with levels  
+
+### **Misc**
+
 **@D.Elite** : Friend ++ of Dorami, Trusted long time ago in discord and also in Geometry dash   
-**@D.Friends** : Simple friend of Dorami in discord 
+**@D.Friends** : Simple friend of Dorami in discord   
+  
+**@D.Verified :** For people who are Semi/very popular in the GD community  
+**@D.Youtubers \[1000+ subscribers\] :** People who have more then 1000 subscribers on their youtube account ****  
+  
+**@D.Sexy creator** : Extremely talented creators   
+**@🛠 D.Creators \[&gt;2 Cp\]** : People who have more than 2CP's \(feature or two simple rate\)  
+  
+**@🔊 D.Music producer** : People who create entertaining music  
+**@D.OP Artists** : Extremely talented artist _\(other than GD\)_  
+**@🎨 D.Fx-and-Gfx** : Good artist _\(other than GD\)_  
+  
+  
+  
+  
+  
+
+
+
 
