@@ -1,12 +1,25 @@
 # FAQ
 
-## Where 
+## Where do i post images ? 
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+* You have many choice to post images, each channel have specific topic like \#d-player-room or \#d-creator-room, if you have a picture that doesn't fit any of the topic of the actual channels, post them here \#d-other-images
+* Mods or higher can upload images in \#general-chat or people who had the @\*D.General Media\* role \(Out of stock\)
 
-## Have you had a chance to answer the previous question?
+## Any chance to be mod?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+* Depends on your activity and behavior on the server, it needs a long time to have it 
 
+## Where is &lt;language&gt; channel ?
 
+They are locked to avoid people uploading cliches about their languages  
+  
+type in \#d-bot-room to have the access of them   
+?spanish  
+?russian  
+?french  
+?deutsch  
+?filipino  
+?Portuguese  
+  
+@\*D.Omni language access\* is only for staff member to make the life easier  
 
