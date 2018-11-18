@@ -15,7 +15,11 @@ Helpers : Shurineko, Roimousti, Jghost and Reunomi
 
 ### Other staff 
 
-Workshop manager \(manage roles only\) : IronWarn and Vapor \[Team Orion\]  
+Workshop manager \(manage roles only\) : IronWarn and Vapor \[Team Orion\]
+
+#### Note
+
+Do not hesitate to give feedback on this page, it will help us to make it better and confortable for everyone   
   
   
   
