@@ -48,7 +48,7 @@ W3 give 4h mute, **One mistake and it's a ban
 @muted :** You have this role when you are muted having the W2, W3 or causing drama 
 
 {% hint style="danger" %}
-**A single mod can ban you instantly causing drama or any toxic things** 
+**A single mod can ban you instantly because of drama or any toxic things** 
 {% endhint %}
 
   
