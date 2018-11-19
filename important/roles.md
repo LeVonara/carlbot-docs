@@ -43,9 +43,9 @@ They are given depending the rule violation act
 W3 is the nearest warn from ban, we hope you will not get punished this far in all the way  
   
 W2 give 2h mute   
-W3 give 4h mute, **One mistake and it's a ban   
+W3 give 4h mute,   
   
-@muted :** You have this role when you are muted having the W2, W3 or causing drama 
+**@muted :** You have this role when you are muted having the W2, W3 or causing drama 
 
 {% hint style="danger" %}
 **A single mod can ban you instantly because of drama or any toxic things** 

@@ -14,11 +14,11 @@ Helpers : Shurineko, Roimousti, Jghost, Fhewi and Reunomi
 
 ### Other staff 
 
-Workshop manager \(manage roles only\) : IronWar and Vapor \[Team Orion\]
+Workshop manager **\(manage roles only\)** : IronWar and Vapor "\[Team Orion\]"
 
 #### Note
 
-Do not hesitate to give feedback on this page, it will help us to make it better and confortable for everyone   
+Do not hesitate to give feedback on this page, it will help us to make it better and comfortable for everyone   
   
   
   
