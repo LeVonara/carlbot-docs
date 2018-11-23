@@ -7,11 +7,7 @@
 
 ## Any chance to be mod ?
 
-* Depends on your activity and behavior on the server, it needs a long time to have it 
-
-{% hint style="warning" %}
-Your dream to be mod will be slowly erased while having a single warning
-{% endhint %}
+* We highly recommend you to not ask for it in any way as said in the rules  
 
 ## Where is &lt;language&gt; channel ?
 

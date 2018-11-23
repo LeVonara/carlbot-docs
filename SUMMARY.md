@@ -12,3 +12,7 @@
 
 * [Tips and tricks](other-fun/tips-and-tricks.md)
 
+## Unbelivaboat info
+
+* [Currency](unbelivaboat-info/untitled.md)
+

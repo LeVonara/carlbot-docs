@@ -28,6 +28,7 @@ MEE6 : [https://mee6.xyz/leaderboard/412536528561242113](https://mee6.xyz/leader
 **@D.Verified :** For people who are Semi/very popular in the GD community  
 **@D.Youtubers \[1000+ subscribers\] :** People who have more then 1000 subscribers on their youtube account ****  
   
+**@D.Sponsor** : For the ones who donated Dorami \(any value\)  
 **@D.Sexy creator** : Extremely talented creators   
 **@🛠 D.Creators \[&gt;2 Cp\]** : People who have more than 2CP's \(feature or two simple rate\)  
   
@@ -43,13 +44,9 @@ They are given depending the rule violation act
 W3 is the nearest warn from ban, we hope you will not get punished this far in all the way  
   
 W2 give 2h mute   
-W3 give 4h mute,   
+W3 give 4h mute  
   
 **@muted :** You have this role when you are muted having the W2, W3 or causing drama 
-
-{% hint style="danger" %}
-**A single mod can ban you instantly because of drama or any toxic things** 
-{% endhint %}
 
   
   
