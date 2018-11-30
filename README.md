@@ -29,12 +29,6 @@ Jghost
 Fhewi   
 Reunomi 
 
-### Other staff 
-
-**Workshop manager**    
-IronWar   
-Discord sensei 
-
 > Do not hesitate to give feedback for this website, we always update it to make it more comfortable for everyone  
 >   
 > Thank you and have a good time!
