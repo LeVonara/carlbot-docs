@@ -12,7 +12,7 @@
 ## Where is &lt;language&gt; channel ?
 
 * They are locked to avoid people uploading cliches about their languages 
-* type in \#d-bot-room to have the access of them  ?spanish ?russian ?french ?deutsch ?filipino ?Portuguese 
+* type in \#d-bot-room to have the access of them  D?spanish D?russian D?french D?deutsch D?filipino D?Portuguese D?swedish 
 * @\*D.Omni language access\* is only made for staff member to make the life easier
 
 
