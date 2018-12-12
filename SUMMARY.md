@@ -6,7 +6,6 @@
 
 * [FAQ](important/faq.md)
 * [Roles](important/roles.md)
-* [Updates](important/untitled.md)
 
 ## Other/fun
 

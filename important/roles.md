@@ -34,19 +34,7 @@ MEE6 : [https://mee6.xyz/leaderboard/412536528561242113](https://mee6.xyz/leader
   
 **@🔊 D.Music producer** : People who create entertaining music  
 **@D.OP Artists** : Extremely talented artist _\(other than GD\)_  
-**@🎨 D.Fx-and-Gfx** : Good artist _\(other than GD\)_
-
-### _Punishments_ 
-
-W1, W2 and W3 are not _expirable_  
-  
-They are given depending the rule violation act  
-W3 is the nearest warn from ban, we hope you will not get punished this far in all the way  
-  
-W2 give 2h mute   
-W3 give 4h mute  
-  
-**@muted :** You have this role when you are muted having the W2, W3 or causing drama 
+**@🎨 D.Fx-and-Gfx** : Good artist _\(other than GD\)_  
 
   
   
