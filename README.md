@@ -21,10 +21,6 @@ Razorhell
   
 **Helpers**   
 Akhlo  
-Roimousti  
-Jghost  
-Fhewi   
-Reunomi   
 IronWar  
 Kyoter 
 
