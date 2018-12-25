@@ -24,7 +24,9 @@ Akhlo
 Roimousti  
 Jghost  
 Fhewi   
-Reunomi 
+Reunomi   
+IronWar  
+Kyoter 
 
 ####    
 
