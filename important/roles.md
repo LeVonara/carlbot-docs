@@ -28,6 +28,10 @@ MEE6 : [https://mee6.xyz/leaderboard/412536528561242113](https://mee6.xyz/leader
 **@D.Sexy creator** : Extremely talented creators   
 **@🛠 D.Creators \[&gt;2 Cp\]** : People who have more than 2CP's \(feature or two simple rate\)  
   
+**@D.Demon Grinder** : People with 200+ demons  
+**@D.Demon Master** : At least one top 100 beaten  
+**@Star Grinder** : 8000 stars minimum  
+  
 **@🔊 D.Music producer** : People who create entertaining music  
 **@D.OP Artists** : Extremely talented artist _\(other than GD\)_  
 **@🎨 D.Fx-and-Gfx** : Good artist _\(other than GD\)_    
