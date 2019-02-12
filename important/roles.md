@@ -11,7 +11,7 @@
 | **@D.Moderator** | They can kick, ban and manage the server  |
 | **@D.helper**  | Beta version of Moderators, They can warn and mute and helps other staff members  |
 
-### Level roles
+### Leveled roles
 
 MEE6 : [https://mee6.xyz/leaderboard/412536528561242113](https://mee6.xyz/leaderboard/412536528561242113) Check this link to see all the available roles with levels  
 
