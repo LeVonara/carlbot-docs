@@ -27,5 +27,5 @@ Note : **Warning I** mutes you for 30m; **Warning II** mutes you for 2h and **Wa
 ## Can I tag "X" staff member ?
 
 Of course! If you need any help, we will be glad to answer you!  
-But you shouldn't tag staff roles \(set aside for emergency\) and also ping because it's ~~_**FUN**_~~
+But you shouldn't tag staff roles \(set aside for emergency\) and also ping because it's ~~_**FUNNY**_~~
 

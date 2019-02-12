@@ -6,23 +6,12 @@ _**Permanent invite link :**_ [ _**https://discord.gg/qxbTdUT**_](%20https://dis
 
 ## Current staff 
 
-**Owner**   
-Dorami \(Real account tag : @Dorami\#1561\)  
-  
-**Admins**   
-AppleCandy \(Emergency use\)  
-Fox  
-LeVonara  
-  
-**Moderators**   
-Athed  
-Eloy \(Daughter proud of daddy\)  
-Razorhell  
-  
-**Helpers**   
-Akhlo  
-IronWar  
-Kyoter 
+| Role | Member |
+| :--- | :--- |
+| **DORAMI** \(owner\)  | Dorami\#1561 |
+| **Administrators**  | AppleCandy \(Emergency use\) Fox LeVonara |
+| **Moderators** | Athed Eloy \(Daughter proud of daddy\) Razorhell |
+| **Helpers** | Akhlo IronWar Kyoter  |
 
 ####    
 
