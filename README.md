@@ -11,7 +11,7 @@ Dorami \(Real account tag : @Dorami\#1561\)
   
 **Admins**   
 AppleCandy \(Emergency use\)  
-Ren \(Emergency Use 2\)  
+Fox  
 LeVonara  
   
 **Moderators**   
