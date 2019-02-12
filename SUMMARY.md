@@ -4,7 +4,7 @@
 
 ## Important
 
-* [FAQ](important/faq.md)
+* [F-A-Q](important/faq.md)
 * [Roles](important/roles.md)
 
 ## Other/fun

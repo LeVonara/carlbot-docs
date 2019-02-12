@@ -1,4 +1,4 @@
-# FAQ
+# F-A-Q
 
 ## Where do I post images ? 
 
